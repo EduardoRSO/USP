@@ -1,0 +1,3 @@
+O palestrante, Ricardo Kojo, comentou sobre o CODELAB, um grupo de extensão com o objetivo de estimular a inovação tecnológica na USP, focando o desenvolvimento de sistemas complexos e inteligentes.
+
+A principal iniciativa do grupo é a dev.journey(), que engloba 6 programas educacionais com enfoque em iniciação científica, hackatons, inserção no mercado, aprendizado de tecnologias de fronteira, etc. Além disso, também são feitos Meet & Greet, isto é, eventos com palestrantes de empresas ou ex-alunos.

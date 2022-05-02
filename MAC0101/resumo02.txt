@@ -1,0 +1,3 @@
+O Thiago, apresentador da palestra, comentou sobre suas experiências com a IC, além de alguns pontos da sua pesquisa. Dado que a iniciação científica é muito atrativa para os novos alunos, essa palestra foi muito importante. Algumas das dúvidas giram em torno de: Como escolher um tema; qual tema escolher; como conciliar o tempo; e etc. 
+
+Quanto a IC do Thiago, ele estudou sobre a resolução de uma questão com enfoque na teoria dos grafos, que possui muitas aplicações na teoria da computação. Desse modo, seu foco estava centrado na resolução de "mapas" com pontos e retas traçadas entre eles, estruturando um sistema de "caminhos" para se chegar á um determinado ponto, então seu objetivo era, por exemplo, obter o menor caminho possível ou até mesmo ordená-los.
